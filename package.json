@@ -2,17 +2,20 @@
   "name": "generator-prestahop-module",
   "version": "1.0.0",
   "description": "A generator to help start a module prestashop quickly",
-  "main": "index.js",
+  "main": "generators/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "hermannovich/generator-prestashop-module.git"
+    "url": "https://github.com/Hermannovich/generator-prestashop-module"
   },
   "keywords": [
     "yeoman-generator",
     "prestashop-module-generator"
+  ],
+  "files": [
+    "generators"
   ],
   "author": "Hermannovich <donfack.hermann@gmail.com>",
   "license": "MIT",
